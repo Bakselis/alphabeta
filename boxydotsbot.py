@@ -1,4 +1,5 @@
 import random
+import time
 class bot(object):
 
     infinity = float('inf')
