@@ -1,5 +1,5 @@
 import random
-class miniMaxAlfaBeta(object):
+class bot(object):
 
     infinity = float('inf')
     dimensions = None;
